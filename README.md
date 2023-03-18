@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Lucas Cardoso
 
-- 💻 Atualmente estou buscando meu primeiro emprego como desenvolvedor JAVA
+- 💻 Atualmente trabalho como analista de sistemas na BRQ
 - 📚 Estudando JAVA, SQL e integrção do Back-End com o Front-End
 - 📫 Contate-me no email: lucas.cardosopessoal@hotmail.com / https://www.linkedin.com/in/lucascardosoc/
 
