@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Lucas Cardoso
 
-- 💻 Atualmente trabalho como analista de sistemas na BRQ
+- 💻 Atualmente trabalho como analista de sistemas no Banco BV
 - 📚 Estudando JAVA, SQL e integrção do Back-End com o Front-End
 - 📫 Contate-me no email: lucas.cardosopessoal@hotmail.com / https://www.linkedin.com/in/lucascardosoc/
 
